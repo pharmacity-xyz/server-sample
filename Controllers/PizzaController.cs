@@ -9,4 +9,14 @@ namespace ContosoPizza.Controllers;
 public class PizzaController : ControllerBase
 {
     public PizzaController() { }
+
+    // GET all action
+
+    // GET by id action
+
+    // POST action
+
+    // PUT action
+
+    // DELETE action
 }
